@@ -1,0 +1,33 @@
+{
+  "name": "example-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giovanni-oliveira"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-clean-css",
+    "gulp-sass",
+    "gulp-uglify",
+    "gulp-imagemin",
+    "gulp-autoprefixer",
+    "watch"
+  ],
+  "author": "Giovanni Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^3.0.0"
+  }
+}
